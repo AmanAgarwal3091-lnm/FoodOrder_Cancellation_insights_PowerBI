@@ -8,14 +8,18 @@ orders processed daily, this means a cancellation rate of 1% which is moderate.
 
 By analysing the problem statement and the data points in the given tables, we can get 
 the following points:
- Modes of Cancellation: Either by Restaurant or through App
- Reasons of cancellation: 5 reasons of cancellation 
+
+Modes of Cancellation:
+Either by Restaurant or through App
+
+Reasons of cancellation: 5 reasons of cancellation 
 1) Customer Refusal
 2) Stock Shortage
 3) Item Unavailable
 4) Closed Premises
 5) High Demand at the Restaurant
- Cancellation Policy: Distinguishes between packaged items, buffet items, and 
+
+Cancellation Policy: Distinguishes between packaged items, buffet items, and 
 non-MRP items. Packaged and buffet items can be cancelled by users. 
 Whereas, non-MRP items can be cancelled till order not accepted.
 
